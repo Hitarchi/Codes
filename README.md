@@ -9,5 +9,5 @@ This repository is a compilation of multiple languages, a slow and step by step 
 * [`C#`](https://github.com/studentdevelops/Codes/tree/eea3def876eca856313b112e452f16b309892eb2/C%23CodingQuestions)
 * [`C++`](https://github.com/studentdevelops/Codes/tree/eea3def876eca856313b112e452f16b309892eb2/CppCodingQuestions)
 * [`Java`](https://github.com/studentdevelops/Codes/tree/eea3def876eca856313b112e452f16b309892eb2/JavaCodingQuestions)
-* [`Python`](https://github.com/studentdevelops/Codes/tree/eea3def876eca856313b112e452f16b309892eb2/PythonCodingQuestions)
+* [`Python`](https://github.com/studentdevelops/Codes/tree/2235c644bb5ebe55ab311aa365832799c41f314a/PythonCodingQuestions)
 
