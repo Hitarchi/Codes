@@ -3,7 +3,7 @@
 ## Table of Contents: DS in Java
 * [`Array`]()
 * [`Stack`]()
-  * [`Stack Implementation using List`](https://github.com/studentdevelops/Codes/blob/05f684128e10fa8e52973e97977685a0ace31851/PythonCodingQuestions/Data%20Structures/stack.py)
+  * [`Stack Implementation using List`](https://github.com/studentdevelops/Codes/blob/be3670b0d2b257736337d3860d02add46d005c35/JavaCodingQuestions/Data%20Structures/Stack.java)
 * [`Linked List`]()
 * [`Queue`]()
 * [`Matrix`]()
