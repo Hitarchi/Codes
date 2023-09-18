@@ -6,7 +6,7 @@ This repository is a compilation of multiple languages, a slow and step by step 
 > *Bad programmers worry about the code. Good programmers worry about data structures and their relationships* – Linus Torvalds
 
 
-* [`C#`](https://github.com/studentdevelops/Codes/tree/eea3def876eca856313b112e452f16b309892eb2/C%23CodingQuestions)
+* [`C#`](https://github.com/Hitarchi/Codes/tree/main/C%23CodingQuestions)
 * [`C++`](https://github.com/studentdevelops/Codes/tree/eea3def876eca856313b112e452f16b309892eb2/CppCodingQuestions)
 * [`Java`](https://github.com/studentdevelops/Codes/tree/eea3def876eca856313b112e452f16b309892eb2/JavaCodingQuestions)
 * [`Python`](https://github.com/studentdevelops/Codes/tree/main/PythonCodingQuestions)
